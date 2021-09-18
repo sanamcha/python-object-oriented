@@ -1,0 +1,16 @@
+# Veggies
+
+tomatoes
+kale
+parsnips
+brocolli
+cucumber
+
+
+# Fruits
+
+apple
+mango
+banana
+cherry
+pineapple
